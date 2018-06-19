@@ -1,1 +1,1 @@
-file in a branch
+file in a branch modified in first branch
